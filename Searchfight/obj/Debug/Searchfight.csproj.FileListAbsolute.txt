@@ -1,0 +1,5 @@
+F:\Project\Searchfight\Searchfight\bin\Debug\Searchfight.exe.config
+F:\Project\Searchfight\Searchfight\bin\Debug\Searchfight.exe
+F:\Project\Searchfight\Searchfight\bin\Debug\Searchfight.pdb
+F:\Project\Searchfight\Searchfight\obj\Debug\Searchfight.exe
+F:\Project\Searchfight\Searchfight\obj\Debug\Searchfight.pdb
